@@ -2,7 +2,7 @@
 
 About Project
 
-Its Test Automation Project developed using Seleniun WebDriver, TestNG, Maven and POM structure
+Its a Test Automation Project developed using Seleniun WebDriver, TestNG, Maven and POM structure.
 
 How to run test cases?
 1) Open QuantInsti project
