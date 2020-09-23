@@ -1,5 +1,8 @@
 # QuantInsti
 
+About Project
+Its Test Automation Project developed using Seleniun WebDriver, TestNG, Maven and POM structure
+
 How to run test cases?
 1) Open QuantInsti project
 2) Open src/test/java folder
